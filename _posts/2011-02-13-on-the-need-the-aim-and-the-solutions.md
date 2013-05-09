@@ -5,7 +5,7 @@ category: code
 published: true
 ---
 
-![Complexité](/images/posts/complexity.jpg)
+![Complexité](/images/complexity.jpg)
 
 
 Un des aspects que j'apprécie le plus dans le développement, est la liberté totale
