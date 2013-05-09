@@ -10,4 +10,4 @@ The design and the basic jekyll structure comes straight from
 # Copyright
 
 The posts are mine and only reflect my point of view. Images, trademark and so on 
-are the properties of their respective owner (*which makes sense, doesn't it?*).
+are the properties of their respective owner *(which makes sense, doesn't it?)*.
