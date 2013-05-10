@@ -6,6 +6,7 @@ published: true
 ---
 
 ![Complexité](/images/complexity.jpg)
+<legend>Dave Smith, Centre for Mathematical Biology, Uni Oxford</legend>
 
 
 Un des aspects que j'apprécie le plus dans le développement, est la liberté totale
@@ -82,3 +83,5 @@ Pas besoin de créer un meta-language, modélisé par un ensemble de classes, et
 faisant la liaison entre vos objets et n'importe quel format d'export imaginable.
 
 **Faites simple, clair, et efficace.**
+
+
