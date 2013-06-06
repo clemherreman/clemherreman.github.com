@@ -1,6 +1,8 @@
 markdown: rdiscount
 
-permalink: pretty
+excerpt_separator: "\n\n\n"
+
+permalink: "/:categories/:title"
 exclude:
   - start.sh
   - Rakefile

@@ -8,7 +8,6 @@ published: true
 ![Complexité](/images/complexity.jpg)
 <legend>Dave Smith, Centre for Mathematical Biology, Uni Oxford</legend>
 
-
 Un des aspects que j'apprécie le plus dans le développement, est la liberté totale
 de ce qu'il est possible de faire. Nous construisons des applications, des logiciels,
 [des systèmes entiers, pouvant atteindre des complexités rendant leur appréhension
@@ -21,6 +20,7 @@ on peut tout à fait construire des applications utilisées par des milliers de 
 qui ne tiennent que grâce à des hacks et autres bouts de ficelles. Cette liberté,
 cette possibilité de tout faire, permet à certains d'entre nous de faire des merveilles,
 mais surtout à d'autres de faire [n'importe quoi](http://stackoverflow.com/questions/130965/what-is-the-worst-code-youve-ever-written/143711#143711).
+
 
 _Disclaimer : Toute ressemblance avec des situations réelles ou avec des
 personnes existantes ou ayant existé ne saurait être fortuite, et découle d'une volonté
